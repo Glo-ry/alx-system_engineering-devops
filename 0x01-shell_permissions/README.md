@@ -1,1 +1,1 @@
-Shell permission read me file
+shell permissions readme
