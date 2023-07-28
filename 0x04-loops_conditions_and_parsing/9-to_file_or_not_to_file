@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Bash script that gives you information about the school file using if and else
+#checking file exists and stuff
+
 name=school
 if [ -e $name ]; then
     echo "school file exists"
